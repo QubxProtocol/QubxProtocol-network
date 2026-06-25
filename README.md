@@ -1,5 +1,7 @@
 # Qubx Protocol
 
+CA Pump.fun : 3oSyopckt25V7xB8G2DGt8UE8sSYceEAjyqo6srspump
+
 > Compute on demand.
 
 Qubx Protocol is a high-performance GPU compute network designed for AI builders, researchers, and enterprises. Access NVIDIA-powered infrastructure on demand for inference, agent workloads, fine-tuning, evaluation, and large-scale AI deployment.
