@@ -274,7 +274,7 @@ Website:
 https://qubx.cloud
 
 X (Twitter):
-https://x.com/QubxProtocol
+https://x.com/QubxCloud
 
 ---
 
