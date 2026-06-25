@@ -1,0 +1,16 @@
+{
+  "name": "qubx-protocol",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "@huggingface/inference": "^2.8.0",
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
